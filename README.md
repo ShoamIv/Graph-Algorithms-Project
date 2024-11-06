@@ -23,8 +23,6 @@ Makefile: Automates the compilation of the project. It provides targets to compi
 
 Test.cpp: Contains unit tests for verifying the functionality of the implemented algorithms. This file likely includes various test cases to ensure correctness and performance.
 
-TestCounter.cpp: Additional test file, potentially for tracking performance or counting algorithm steps.
-
 doctest.h: A single-header C++ testing framework used for writing unit tests (i.e., Doctest). This allows for easy integration of test cases within C++ code.
 
 Features
